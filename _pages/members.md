@@ -24,11 +24,22 @@ permalink: /members/
     <h3><a href="{{ site.baseurl }}/members/vedumrajkar">Ved Umrajkar</a></h3>
   </div>
 
+ <div class="member-card">
+    <img src="{{ site.baseurl }}/assets/images/members/y23/shree.jpeg" width= 200 height= 200 alt="Shree Singhi">
+    <h3><a href="{{ site.baseurl }}/members/shreesinghi">Shree Singhi</a></h3>
+</div>
+
+ <div class="member-card">
+    <img src="{{ site.baseurl }}/assets/images/members/y23/Screenshot 2025-03-28 175712.png" width= 200 height= 200 alt="Barath Chandran">
+    <h3><a href="{{ site.baseurl }}/members/barathchandran">Barath Chandran</a></h3>
+  </div>
 
   <div class="member-card">
     <img src="{{ site.baseurl }}/assets/images/members/y23/Agam_PFP.png" width= 200 height= 200 alt="Agam Pandey">
     <h3><a href="{{ site.baseurl }}/members/agampandey">Agam Pandey</a></h3>
   </div>
+
+  
 
   <div class="member-card">
     <img src="{{ site.baseurl }}/assets/images/members/y24/otterv.webp" width= 200 height= 200 alt="Atharv Mittal">
@@ -63,6 +74,11 @@ permalink: /members/
   <div class="member-card">
     <img src="{{ site.baseurl }}/assets/images/members/y25/adityachauhan.jpg" alt="Aditya Chauhan">
     <h3><a href="{{ site.baseurl }}/members/adityachauhan">Aditya Chauhan</a></h3>
+  </div>
+
+  <div class="member-card">
+    <img src="{{ site.baseurl }}/assets/images/members/y24/advika.JPG" width="200" height="200" alt="Advika Sinha">
+    <h3><a href="{{ site.baseurl }}/members/advika">Advika Sinha</a></h3>
   </div>
 
  <div class="member-card">
@@ -155,10 +171,6 @@ permalink: /members/
     <h3><a href="{{ site.baseurl }}/members/laabhanvi">Laabhanvi Jain</a></h3>
   </div>
 
-  <div class="member-card">
-    <img src="{{ site.baseurl }}/assets/images/members/jane_smith.jpg" alt="Jane Smith">
-    <h3><a href="{{ site.baseurl }}/members/jane_smith">Jane Smith</a></h3>
-  </div>
 
   <div class="member-card">
     <img src="{{ site.baseurl }}/assets/images/members/jane_smith.jpg" alt="Jane Smith">
